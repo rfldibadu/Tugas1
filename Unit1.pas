@@ -45,6 +45,7 @@ type
     Label8: TLabel;
     Label6: TLabel;
     Label7: TLabel;
+    Label9: TLabel;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
     procedure Button3Click(Sender: TObject);

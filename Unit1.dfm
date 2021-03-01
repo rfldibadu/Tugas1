@@ -48,6 +48,13 @@ object Form1: TForm1
     Height = 13
     Caption = 'Jumlah (X * Y)'
   end
+  object Label9: TLabel
+    Left = 266
+    Top = 8
+    Width = 196
+    Height = 13
+    Caption = '152016038 / MUHAMMAD RIFALDI BADU'
+  end
   object Panel1: TPanel
     Left = 440
     Top = 143
@@ -210,7 +217,7 @@ object Form1: TForm1
     OnClick = Button4Click
   end
   object SumXY: TEdit
-    Left = 341
+    Left = 338
     Top = 166
     Width = 75
     Height = 21
@@ -218,8 +225,8 @@ object Form1: TForm1
     TabOrder = 12
   end
   object xy2: TButton
-    Left = 341
-    Top = 196
+    Left = 338
+    Top = 193
     Width = 75
     Height = 25
     Caption = '(X*Y) ^ 2'
